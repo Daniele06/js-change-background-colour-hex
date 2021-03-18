@@ -3,6 +3,6 @@ JS Challenge 2
 
 Exercise 2 from the 100+ Javascript projects page (https://jsbeginners.com/javascript-projects-for-beginners/)
 
-This code creates a random HEX background colour when clicking a button.
+Changes the background colour to a random HEX number and displays that number on the page.
 
 ![project picture](challenge2.png)
